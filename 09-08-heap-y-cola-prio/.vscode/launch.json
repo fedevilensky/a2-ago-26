@@ -2,14 +2,36 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "09-08-heap-y-cola-prio_53538eec"
+    },
+    {
+      "name": "LLDB: Debug active C++ file",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "args": [],
+      "stdio": [
+        null,
+        null,
+        null
+      ],
+      "cwd": "${fileDirname}",
+      "preLaunchTask": "g++ build active file",
+      "stopOnEntry": false
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/fede/Desktop/a2-ago-26/09-08-heap-y-cola-prio/adts/heap",
-      "program": "/home/fede/Desktop/a2-ago-26/09-08-heap-y-cola-prio/adts/heap/build/Debug/outDebug",
+      "cwd": "/home/fede/Desktop/a2-ago-26/09-08-heap-y-cola-prio",
+      "program": "/home/fede/Desktop/a2-ago-26/09-08-heap-y-cola-prio/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
