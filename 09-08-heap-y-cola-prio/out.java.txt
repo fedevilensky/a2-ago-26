@@ -1,0 +1,21 @@
+Cuantos elementos queres agregar?
+Elemento mas chico es: a
+El heap contiene 1 elementos
+Elemento mas chico es: a
+El heap contiene 2 elementos
+Elemento mas chico es: a
+El heap contiene 3 elementos
+Elemento mas chico es: a
+El heap contiene 4 elementos
+Elemento mas chico es: a
+El heap contiene 5 elementos
+Elemento mas chico es: f
+El heap contiene 6 elementos
+Elemento mas chico es: g
+El heap contiene 7 elementos
+Elemento mas chico es: h
+El heap contiene 8 elementos
+Elemento mas chico es: i
+El heap contiene 9 elementos
+Elemento mas chico es: j
+El heap contiene 10 elementos
